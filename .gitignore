@@ -4,6 +4,7 @@
 db.sqlite
 .vscode
 .vscode/launch.json
+.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
